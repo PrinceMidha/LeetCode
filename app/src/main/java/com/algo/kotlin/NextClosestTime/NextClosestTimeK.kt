@@ -1,4 +1,4 @@
-package com.algo.kotlin
+package com.algo.kotlin.NextClosestTime
 
 /*
     Problem
