@@ -7,7 +7,7 @@ public class FrogJump {
     public static void main(String[] args) {
         FrogJump frogJump = new FrogJump();
 
-        frogJump.canCross(new int[]{0,1,3,5,6,8,12,17});
+        System.out.println(frogJump.canCross(new int[]{0,1,3,5,6,8,12,17}));
     }
 
     public boolean canCross(int[] stones) {
